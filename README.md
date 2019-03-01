@@ -53,6 +53,7 @@ Explicit binding: whenever the bind, call or apply methods are used.
 
 super() is used to tell the parents constructor to look at the child's attributes and vis versa
 
+
 ## Project Set up
 
 Follow these steps to set up and work on your project:
